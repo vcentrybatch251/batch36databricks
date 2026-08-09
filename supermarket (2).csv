@@ -1,0 +1,36 @@
+id,category,subcategory,product,price,place
+1,Electronics,Mobile,Iphone,100,chennai
+2,Electronics,Mobile,Samsung,110,Mumbai
+3,Electronics,Mobile,Oppo,200,bangalor
+4,Electronics,Earphone,Wired Earphone,30,chennai
+5,Electronics,Earphone,Wireless Earbud,400,Mumbai
+6,Electronics,Earphone,Hybrid Earphone,400,bangalor
+7,Electronics,charger,10000Mhp,100,chennai
+8,Electronics,charger,12000Mhp,110,Mumbai
+9,Kitchen,Plates,Sliver plates,200,bangalor
+10,Kitchen,Plates,Sliver plates,30,chennai
+11,Kitchen,Plates,Plastic Plate,400,Mumbai
+12,Kitchen,Spoon,wood spoon,400,bangalor
+13,Kitchen,Spoon,Sliver spoons,100,chennai
+14,Kitchen,Spoon,Sliver spoons,110,Mumbai
+15,Dress,Men,Jeans Pant for Men,200,bangalor
+16,Dress,Men,T-Shirt For Men,30,chennai
+17,Dress,Men,T-Shirt For Men,400,Mumbai
+18,Dress,Girls,Tops,400,bangalor
+19,Dress,Girls,Saree,300,Mumbai
+20,Dress,Girls,Sarees,200,bangalor
+21,Powder,Food,Chilli Powder,400,Mumbai
+22,Powder,Food,Cocoa Powder,400,bangalor
+23,Powder,Food,Garlic Peanut Chutney Powder,300,Mumbai
+24,Powder,Food,Cooking Soda,200,bangalor
+25,Powder,Food,Garam Masala Powder,400,Mumbai
+26,Powder,Detergent,Detergent Powder,400,bangalor
+27,Powder,Detergent,Matic - Automatic Air Freshener Kit With Flexi Control,300,Mumbai
+28,Powder,Detergent,Smart Matic Automatic Air Freshener Refill,200,bangalor
+29,Powder,Detergent,Surf excel matic Top load,400,chennai
+30,Powder,Detergent,Ariel Matics cutting edge technology,400,chennai
+31,Powder,Detergent,Matic Liquid Detergent - Top Load,300,chennai
+32,Powder,dishwasher,Vim,200,chennai
+33,Powder,dishwasher,Exo,400,chennai
+34,Powder,dishwasher,Pril,400,chennai
+35,Powder,dishwasher,Patanjali,300,chennai
